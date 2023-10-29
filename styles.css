@@ -1,0 +1,72 @@
+/* font-family: 'Cormorant', serif; */
+
+body {
+    font-family: 'Cormorant', serif;
+}
+
+nav {
+    margin: 50px 25px;
+}
+
+h1 {
+    display: inline-block;
+    margin: 0px 25px;
+}
+
+a {
+    margin: 0px 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.work {
+    border-bottom: 1px solid black;
+    text-decoration-skip-ink: none;
+}
+
+figure {
+    display: inline-block;
+    margin: 25px 25px;
+}
+
+img {
+    height: 400px;
+    width: 660px;
+}
+
+.top_figure {
+    margin-top: 0;
+}
+
+figcaption {
+    font-size: larger;
+}
+
+div {
+    margin-left: 150px;
+    width: 33%;
+    font-size: 28px;
+}
+
+span {
+    display: block;
+    margin: 25px 0px 50px 0px;
+}
+
+footer span {
+    margin: 0;
+    font-size: 14px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+#lets-work {
+    border-bottom: 1px solid black;
+    display: inline-block;
+}
+
+.lets-work-together {
+    width: auto;
+}
